@@ -1,0 +1,12 @@
+C:\Users\labz\source\repos\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\labz\source\repos\project\project\obj\Debug\project.Form1.resources
+C:\Users\labz\source\repos\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\labz\source\repos\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\labz\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\labz\source\repos\project\project\bin\Debug\Database1.accdb
+C:\Users\labz\source\repos\project\project\bin\Debug\Database2.accdb
+C:\Users\labz\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\labz\source\repos\project\project\bin\Debug\project.exe
+C:\Users\labz\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\labz\source\repos\project\project\obj\Debug\project.exe
+C:\Users\labz\source\repos\project\project\obj\Debug\project.pdb
